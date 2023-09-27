@@ -80,5 +80,5 @@ echo '</h1>';
 <span class="looper after" tabindex="0"></span>
 </nav>
 </header>
-<div id="container">
+<div id="container" class="container_bg">
 <main id="content" role="main">
