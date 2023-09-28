@@ -67,7 +67,7 @@ table{width:100%;margin:30px 0}
 #container{flex:1;background:#fff}
 div#container{width:75%;margin:0 auto;}
 #content{width:75%;padding-right:5%;float:left}
-#sidebar{width:25%;float:right}
+#sidebar{width:25%;float:right;border-radius: 5px;}
 #footer{clear:both}
 
 #menu{margin-top:10px;float:right}
